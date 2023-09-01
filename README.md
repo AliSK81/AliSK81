@@ -10,12 +10,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=AliSK81&style=flat-square&color=F70000" alt=""/>
 
-- 🔭 I’m currently working on **work and university projects**
-- 🌱 I’m currently learning **software engineer skills**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with **any software!**
-- 💬 Ask me about **everything!**
-- 📫 How to reach me: [**@iAliSK**](https://t.me/iAliSK) | **aliebrahimi6739@gmail.com**
+- 🔭 Presently, I am engrossed in managing both work and university projects.
+- 🌱 My current focus revolves around acquiring and honing software engineering skills.
+- 👯 I am actively seeking opportunities for collaboration in various domains.
+- 🤔 Assistance is welcome on any software-related matters!
+- 💬 Feel free to approach me with inquiries about anything at all!
+- 📫 You can reach out to me via [**@iAliSK**](https://t.me/iAliSK) or drop me an email at **aliebrahimi6739@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
