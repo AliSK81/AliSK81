@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="http://elhadjx.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Developer;Computer+Engineering;Java+%7C+Spring+Boot" /></a>
+  <a href="https://github.com/AliSK81">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Software+Developer;Java+%7C+Spring+Boot;C%23+%7C+Asp.Net" />
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=AliSK81&style=flat-square&color=F70000" alt=""/>
